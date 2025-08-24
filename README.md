@@ -7,7 +7,7 @@
 - 📫 How to reach me: *anushkaa6742@gmail.com*
 - ✨fun fact I think I am Funny
 - Connect with me:
-- 
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </p>
